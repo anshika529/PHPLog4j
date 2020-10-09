@@ -1,0 +1,11 @@
+2020-10-09 12:17:13 INFO  ChatClass:24 - Switching to iframe
+2020-10-09 12:17:22 INFO  ChatClass:28 - Chat-Widget Dispalayed...Assertion Passed
+2020-10-09 12:17:22 INFO  ChatClass:32 - ChatWidget Displayed
+2020-10-09 12:17:22 INFO  ChatClass:34 - ChatWidget Clicked
+2020-10-09 12:17:22 INFO  ChatClass:37 - Sending Name
+2020-10-09 12:17:23 INFO  ElementHelpers:38 - Element Enabled
+2020-10-09 12:17:23 INFO  ChatClass:39 - Sending WhatsApp Number
+2020-10-09 12:17:23 INFO  ElementHelpers:27 - Element Enabled
+2020-10-09 12:17:23 INFO  ChatClass:41 - Sending Email
+2020-10-09 12:17:23 INFO  ElementHelpers:38 - Element Enabled
+2020-10-09 12:17:23 INFO  ChatClass:46 - Chat has been Started
